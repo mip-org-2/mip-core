@@ -1,0 +1,3 @@
+source:
+  git: "https://github.com/mip-org-2/mip-package-manager"
+  branch: "main"
